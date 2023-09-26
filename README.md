@@ -1,2 +1,2 @@
 # Projects
-A collection of the projects I have worked on from Datacamp platform
+A collection of the data projects I have worked on platform
